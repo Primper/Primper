@@ -1,13 +1,17 @@
 <h1 align="center">Hi 🖖, I'm Ivan Dremov</h1>
-<h3 align="center">A Junior Frontend Developer from Russia</h3>
+<h3 align="center">A Junior Frontend Developer with skills in JavaScript, Vue JS, Tailwind CSS</h3>
 
-- 🌱 I’m currently learning and improving my skills in **Vue JS**
+- 🎓 I’m currently learning and improving my skills in **Vue JS**
 
-- 👨‍💻 All of my projects are available at [https://ivandremov.com/](https://ivandremov.com/)
+- 💡 I have experience in relational databases, development and design of user interfaces using Figma, website development on WordPress, 1 year experience with C# in Unity Engine, understanding of mathematical algorithms and OOP principles
 
-- 📫 How to reach me **ivandremov@internet.ru**
+- 💬 I have experience in public speaking, gained at many conferences, as well as experience in project management
 
-- 📄 Know about my experiences [https://ivandremov.com/Resume.pdf](https://ivandremov.com/Resume.pdf)
+- 🦾 Where are my projects? All of my projects are available at 👉 [https://ivandremov.com/](https://ivandremov.com/) 👈
+
+- 📫 How to reach me? You can write to my email 👉 **ivandremov@internet.ru** 👈
+
+- 📄 You can view my resume here 👉 [https://ivandremov.com/Resume.pdf](https://ivandremov.com/Resume.pdf) 👈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
