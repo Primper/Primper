@@ -9,7 +9,7 @@
 
 - 🦾 Where are my projects? All of my projects are available at 👉 [https://ivandremov.com/](https://ivandremov.com/) 👈
 
-- 📫 How to reach me? You can write to my email 👉 **ivandremov@internet.ru** 👈
+- 📫 How to reach me? You can write to my email 👉 ** ivndremov@gmail.com** 👈
 
 - 📄 You can view my resume here 👉 [https://ivandremov.com/Resume.pdf](https://ivandremov.com/Resume.pdf) 👈
 
