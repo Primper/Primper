@@ -16,7 +16,7 @@ My path includes working remotely with international teams, creating intuitive u
 
 🦾 All of my projects are available at 👉 [https://ivandremov.com/](https://ivandremov.com/) 👈
 
-💻 My LinkedIn Profile 👉 [https:/www.linkedin.com/in/ivndremov/](https:/www.linkedin.com/in/ivndremov/) 👈
+💻 My LinkedIn Profile 👉 [https://www.linkedin.com/in/ivndremov/](https://www.linkedin.com/in/ivndremov/) 👈
 
 📫 How to reach me? You can write to my email 👉 ivndremov@gmail.com 👈
 
